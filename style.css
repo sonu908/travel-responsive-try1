@@ -1,0 +1,98 @@
+
+.navbar-brand
+{
+    font-family: 'Lobster', cursive;
+    font-size: 70px;
+    padding-left: 30px;
+    color: rgb(255, 255, 255);
+    letter-spacing: 4px;
+}
+.nav-link
+{
+    margin-left:120px;
+    font-size: 20px;
+    text-align: center;
+    color: rgb(93, 86, 86);
+    letter-spacing: 4px;
+}
+.dropdown
+{
+    color: rgb(0, 0, 0);
+    margin-top: auto;
+ margin-left: 150px;
+}
+#exp
+{
+    margin-top: 10px;
+}
+#carouselExampleCaptions
+{
+    margin-top: 40px;
+}
+#req
+{
+    margin-top: -200px;
+
+}
+h3{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
+}
+.carousel-item
+{
+    height: 600px;
+}
+#pop
+{
+   display: flex;
+   justify-content: space-evenly;
+    
+}
+.card
+{
+    height: 450px;
+    background-color: rgb(255, 255, 255);
+}
+span
+{
+    font-weight: bolder;
+}
+.cardf
+{
+    margin-left: 200px;
+}
+.card-bodyyy
+{
+    padding-left: 22px;
+}
+h4
+{
+    color: rgb(247, 91, 117);
+    font-weight: bolder;
+     font-family: 'Caveat', cursive;
+}
+#gal
+{
+    display: flex;
+    justify-content: center;
+}
+.container
+{
+    width: 100%;
+}
+.footer-logo
+{
+    height: 200px;
+}
+.card-tittle
+{
+    font-family: 'Lobster', cursive;
+    font-size: 70px;
+}
+.footerr
+{
+    margin-top: 300px;
+}
